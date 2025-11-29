@@ -1,0 +1,13 @@
+student:
+  WORKSHOP_COMMAND_VERSION: "1.1.0_23sep25"
+  USERNAME: "codespace"
+  TODAYS_DATE: "20251129-162005"
+  GITHUB_USERNAME: "Successdada"
+  USER_NAME_AND_SURNAME: "Success Bulsara"
+  COMPUTER_TYPE: "Linux"
+  RANDOM_PIN: "7457"
+workshop:
+  WORKSHOP_NAME: "Zurich - Cloud Summit"
+  TEACHER_NAME: "Bunmi"
+  SECRET_KEYWORD: "Cuechicashli"
+  ZIP_CODE: "41044"
